@@ -1,0 +1,17 @@
+body{
+background: linear-gradient(darksalmon,rgb(243, 155, 168),steelblue,violet,yellow,springgreen);
+}
+
+.main_div{
+    font-family: 'Dancing Script', cursive;
+    font-size: 62px;
+}
+.copy_right_footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom:0;
+    position: fixed;
+    font-style: unset;
+    color: seagreen;
+    background-color: salmon;
+    text-shadow: 6px 6px 6px rgb(255, 221, 128);
+}
